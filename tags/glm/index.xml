@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GLM on Main</title>
+    <link>https://yoelgraumann.github.io/Yoel_portfolio/tags/glm/</link>
+    <description>Recent content in GLM on Main</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://yoelgraumann.github.io/Yoel_portfolio/tags/glm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 1: Generalized Linear Model</title>
+      <link>https://yoelgraumann.github.io/Yoel_portfolio/post/project1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://yoelgraumann.github.io/Yoel_portfolio/post/project1/</guid>
+      <description>This is a project I did on the &amp;ldquo;Shock Dataset&amp;rdquo; which was provided during my Generalized Linear Models course. This projects includes my R output and My Statistical inference / analysis. I&amp;rsquo;m proud to say that I got the maximum grade on this course.
+This project includes:
+ A description of the Data Preliminary &amp;amp; exploratory analysis  Distribution exploration Correlation Matrix boxplots   Formulation of the GLIM Model fitting, Diagnostics &amp;amp; Outlier Detection  Here&amp;rsquo;s a Preview image:</description>
+    </item>
+    
+  </channel>
+</rss>

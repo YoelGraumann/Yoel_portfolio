@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>P_Values on Main</title>
+    <link>https://yoelgraumann.github.io/Yoel_portfolio/tags/p_values/</link>
+    <description>Recent content in P_Values on Main</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://yoelgraumann.github.io/Yoel_portfolio/tags/p_values/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 2: Categorical Data Analysis</title>
+      <link>https://yoelgraumann.github.io/Yoel_portfolio/post/project2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://yoelgraumann.github.io/Yoel_portfolio/post/project2/</guid>
+      <description>This is a project I did with Dekel Karp and Dylan Vialla during my BSc at HUJI .This project was done on a purely Categorical Data set using the &amp;ldquo;Insight&amp;rdquo; software which was created by Prof. Zvi Gilula from HUJI&amp;rsquo;s Statistics &amp;amp; Data Science department. Prof. Zvi Gilula has created this software using R. The output provided is from the &amp;ldquo;insight&amp;rdquo; software. This was a very complicated project, especially because of the P_Values.</description>
+    </item>
+    
+  </channel>
+</rss>
