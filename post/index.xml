@@ -28,12 +28,14 @@ This project includes:
     </item>
     
     <item>
-      <title>Project 3: soon</title>
+      <title>Project 3: Amazon Customer Review Data</title>
       <link>https://yoelgraumann.github.io/Yoel_portfolio/post/project3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://yoelgraumann.github.io/Yoel_portfolio/post/project3/</guid>
-      <description></description>
+      <description>This is a project I did on the Amazon Customer Review Data. The Dataset was downloaded from the Amazon Web Service using the boto3 library. I made this project in Python using google colab.
+This project includes:
+ Downloading the Data from the Amazon Web Service using boto3. Preprocessing and Feature engineering. Including processing the amazon reviews themselves using basic NLP libraries and functions fitting classification models and trying to improve them by:  creating an &amp;ldquo;averaged&amp;rdquo; combined model of Logistic Regressions Creating a voting system with multiple classifiers   Using Mini-batches and The Stochastic Gradient Descent Algorithm to learn data when our memory is finite, such as in google colab.</description>
     </item>
     
     <item>
