@@ -16,6 +16,14 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://yoelgraumann.github.io/Yoel_portfolio/tags/amazon/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://yoelgraumann.github.io/Yoel_portfolio/tags/aws/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://yoelgraumann.github.io/Yoel_portfolio/tags/categorical-data/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -37,6 +45,10 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://yoelgraumann.github.io/Yoel_portfolio/tags/logistic-regression/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://yoelgraumann.github.io/Yoel_portfolio/tags/nlp/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -65,6 +77,10 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://yoelgraumann.github.io/Yoel_portfolio/post/project6/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://yoelgraumann.github.io/Yoel_portfolio/tags/python/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
