@@ -34,6 +34,33 @@
     </item>
     
     <item>
+      <title>classification</title>
+      <link>https://yoelgraumann.github.io/Yoel_portfolio/tags/classification/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://yoelgraumann.github.io/Yoel_portfolio/tags/classification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Analysis</title>
+      <link>https://yoelgraumann.github.io/Yoel_portfolio/tags/data-analysis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://yoelgraumann.github.io/Yoel_portfolio/tags/data-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning</title>
+      <link>https://yoelgraumann.github.io/Yoel_portfolio/tags/deep-learning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://yoelgraumann.github.io/Yoel_portfolio/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>GLM</title>
       <link>https://yoelgraumann.github.io/Yoel_portfolio/tags/glm/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -61,6 +88,15 @@
     </item>
     
     <item>
+      <title>MLP</title>
+      <link>https://yoelgraumann.github.io/Yoel_portfolio/tags/mlp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://yoelgraumann.github.io/Yoel_portfolio/tags/mlp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>NLP</title>
       <link>https://yoelgraumann.github.io/Yoel_portfolio/tags/nlp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -79,6 +115,15 @@
     </item>
     
     <item>
+      <title>PCA</title>
+      <link>https://yoelgraumann.github.io/Yoel_portfolio/tags/pca/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://yoelgraumann.github.io/Yoel_portfolio/tags/pca/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Python</title>
       <link>https://yoelgraumann.github.io/Yoel_portfolio/tags/python/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -93,15 +138,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://yoelgraumann.github.io/Yoel_portfolio/tags/r/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>scene</title>
-      <link>https://yoelgraumann.github.io/Yoel_portfolio/tags/scene/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://yoelgraumann.github.io/Yoel_portfolio/tags/scene/</guid>
       <description></description>
     </item>
     

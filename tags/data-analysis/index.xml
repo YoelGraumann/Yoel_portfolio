@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Analysis on Main</title>
+    <link>https://yoelgraumann.github.io/Yoel_portfolio/tags/data-analysis/</link>
+    <description>Recent content in Data Analysis on Main</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://yoelgraumann.github.io/Yoel_portfolio/tags/data-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 4 PCA &amp; Deep Learning</title>
+      <link>https://yoelgraumann.github.io/Yoel_portfolio/post/project4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://yoelgraumann.github.io/Yoel_portfolio/post/project4/</guid>
+      <description>In this Project I used the israeli 2021 elections data and the israeli socio-economic data to try and profile the voters of each party based on their socio-economic background, using PCA.
+Since I&amp;rsquo;m also practicing my TensorFlow and Keras deep learning skills, I tried to create a multi layer perceptron model which tried to predict a city&amp;rsquo;s socio-economic background based on the votes each party got in the said city.</description>
+    </item>
+    
+  </channel>
+</rss>

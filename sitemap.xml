@@ -32,7 +32,19 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://yoelgraumann.github.io/Yoel_portfolio/tags/classification/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://yoelgraumann.github.io/Yoel_portfolio/contact/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://yoelgraumann.github.io/Yoel_portfolio/tags/data-analysis/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://yoelgraumann.github.io/Yoel_portfolio/tags/deep-learning/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -48,11 +60,19 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://yoelgraumann.github.io/Yoel_portfolio/tags/mlp/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://yoelgraumann.github.io/Yoel_portfolio/tags/nlp/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://yoelgraumann.github.io/Yoel_portfolio/tags/p_values/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://yoelgraumann.github.io/Yoel_portfolio/tags/pca/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -85,10 +105,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://yoelgraumann.github.io/Yoel_portfolio/tags/r/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://yoelgraumann.github.io/Yoel_portfolio/tags/scene/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
