@@ -8,6 +8,20 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://yoelgraumann.github.io/Yoel_portfolio/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Deep Learning: Sentiment analysis Using PyTorch </title>
+      <link>https://yoelgraumann.github.io/Yoel_portfolio/post/project5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://yoelgraumann.github.io/Yoel_portfolio/post/project5/</guid>
+      <description>In this project I will perform intent classification using three different models to see which one is better for this task. I will be using PyTorch. the data I used for this notebook is provided on github . The names are testlabel, testseq.in, train_label, trainseq.in
+The steps in this project were:
+Uploading the data and understanding it
+Preprocessing the data and some feature engineering
+Creating my own tokenization algorithm
+Creating my own accuracy, confusion matrix and training functions</description>
+    </item>
+    
+    <item>
       <title>Project 1: Generalized Linear Model</title>
       <link>https://yoelgraumann.github.io/Yoel_portfolio/post/project1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -46,15 +60,6 @@ This project includes:
       <guid>https://yoelgraumann.github.io/Yoel_portfolio/post/project4/</guid>
       <description>In this Project I used the israeli 2021 elections data and the israeli socio-economic data to try and profile the voters of each party based on their socio-economic background, using PCA.
 Since I&amp;rsquo;m also practicing my TensorFlow and Keras deep learning skills, I tried to create a multi layer perceptron model which tried to predict a city&amp;rsquo;s socio-economic background based on the votes each party got in the said city.</description>
-    </item>
-    
-    <item>
-      <title>Project 5: soon</title>
-      <link>https://yoelgraumann.github.io/Yoel_portfolio/post/project5/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://yoelgraumann.github.io/Yoel_portfolio/post/project5/</guid>
-      <description></description>
     </item>
     
     <item>

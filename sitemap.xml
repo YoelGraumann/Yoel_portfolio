@@ -48,6 +48,10 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://yoelgraumann.github.io/Yoel_portfolio/post/project5/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://yoelgraumann.github.io/Yoel_portfolio/tags/glm/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -89,10 +93,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://yoelgraumann.github.io/Yoel_portfolio/post/project4/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://yoelgraumann.github.io/Yoel_portfolio/post/project5/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
